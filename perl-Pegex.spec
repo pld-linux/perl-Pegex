@@ -3,7 +3,6 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %define		pdir	Pegex
-%include	/usr/lib/rpm/macros.perl
 Summary:	Pegex - Acmeist PEG Parser Framework
 Summary(pl.UTF-8):	Pegex - szkielet analizatora Acmeist PEG
 Name:		perl-Pegex
