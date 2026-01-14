@@ -7,7 +7,7 @@ Summary:	Pegex - Acmeist PEG Parser Framework
 Summary(pl.UTF-8):	Pegex - szkielet analizatora Acmeist PEG
 Name:		perl-Pegex
 Version:	0.60
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
